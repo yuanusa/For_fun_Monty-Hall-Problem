@@ -3,12 +3,16 @@ http://www.bodowinter.com/tutorial/bw_doodling_monty_hall.pdf
 ##### A HUGE THANK YOU to BODO WINTER #####
 
 Introduction
-Have you heard of the Monty Hall problem? In this project we are going to solve this problem in R language.
+Have you heard of the Monty Hall problem? 
+In this project we are going to solve this problem in R language.
 
 What is Monty Hall problem?
+<img width="362" alt="screen shot 2018-07-11 at 3 50 57 pm" src="https://user-images.githubusercontent.com/39840213/42596049-4b3b290a-8522-11e8-8bf9-04b603ece564.png">
+
 Source:  https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 What is Monty Hall problem in text? 
+
 Assume that a room is equipped with three doors. Behind two are goats, and behind the third is a shiny new car. You are asked to pick a door, and will win whatever is behind it. Let's say you pick door 1. Before the door is opened, however, someone who knows what's behind the doors (Monty Hall) opens one of the other two doors, revealing a goat, and asks you if you wish to change your selection to the third door (i.e., the door which neither you picked nor he opened). The Monty Hall problem is deciding whether you do. 
 
  
